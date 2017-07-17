@@ -1,0 +1,12 @@
+{{ range .Site.Params.addr }}
+    <div>
+        <p>{{ .name }}</p>
+        <p>{{ .line2 }}</p>
+        <p>{{ .line3 }}</p>
+        <p>{{ .town }}</p>
+        <p>{{ .county }}</p>
+        <p>{{ .postcode }}</p>
+        <p>{{ .number }}</p>
+        <p>{{ .telephone }}</p>
+    </div>
+{{ end }}

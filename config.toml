@@ -1,0 +1,34 @@
+baseURL = "http://kyberconsultancy.co.uk/"
+languageCode = "en-gb"
+title = "Kyber Consultancy Ltd"
+footNote = "Kyber Consultancy Ltd is a company registered in England and Wales with company number 08547945\n"
+[params]
+    description = "Independent IT Services"
+
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:enquiries@kyberconsultancy.co.uk"
+[[params.social]]
+    title = "twitter"
+    icon = "twitter"
+    url = "https://twitter.com/KyberConsult"
+[[params.social]]
+    title = "linkedin"
+    icon = "linkedin"
+    url = "https://www.linkedin.com/in/stuartclivemoore/"
+
+[[params.addr]]
+    name  = "Kyber Consultancy Ltd"
+    line2 = "UNIT 4 VISTA PLACE"
+    line3 = "COY POND BUSINESS PK INGWORTH ROAD"
+    town  = "POOLE"
+    county = "DORSET"
+    postcode = "BH12 1JY"
+    number = "Company No. 08547945"
+    telephone = "T 0121 655 4995"
+
+[[params.footer]]
+    copyright = "Copyright © Kyber Consultancy Ltd All Rights Reserved"
+    tradingnames = "kyberconsultancy.co.uk and kyberconsultancy.com are trading names of Kyber Consultancy Ltd"
+    tsandcs = "Terms and Conditions apply to your continued use of this site and any associated services."

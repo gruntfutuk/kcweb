@@ -1,0 +1,18 @@
+---
+Title: Registered office
+Draft: false
+---
+
+Kyber Consultancy Ltd
+
+UNIT 4 VISTA PLACE
+COY POND BUSINESS PK INGWORTH ROAD
+POOLE
+DORSET
+UNITED KINGDOM
+BH12 1JY
+
+
+Company No. 08547945
+
+T 0121 655 4995
