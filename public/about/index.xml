@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Kyber Consultancy Ltd</title>
+    <link>http://kyberconsultancy.co.uk/about/</link>
+    <description>Recent content in Abouts on Kyber Consultancy Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://kyberconsultancy.co.uk/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://kyberconsultancy.co.uk/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kyberconsultancy.co.uk/about/about/</guid>
+      <description>Kyber Consultancy Ltd is an independent IT Services company.
+Formed in 2013 by Stuart Moore, a very experienced Management Consultant and senior level IT Professional.</description>
+    </item>
+    
+    <item>
+      <title>Registered office</title>
+      <link>http://kyberconsultancy.co.uk/about/moreabout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kyberconsultancy.co.uk/about/moreabout/</guid>
+      <description>Kyber Consultancy Ltd
+UNIT 4 VISTA PLACE COY POND BUSINESS PK INGWORTH ROAD POOLE DORSET UNITED KINGDOM BH12 1JY
+Company No. 08547945
+T 0121 655 4995</description>
+    </item>
+    
+  </channel>
+</rss>

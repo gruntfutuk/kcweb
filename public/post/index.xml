@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Kyber Consultancy Ltd</title>
+    <link>http://kyberconsultancy.co.uk/post/</link>
+    <description>Recent content in Posts on Kyber Consultancy Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 17 Jul 2017 11:37:50 +0100</lastBuildDate>
+    
+	<atom:link href="http://kyberconsultancy.co.uk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>http://kyberconsultancy.co.uk/post/welcome/</link>
+      <pubDate>Mon, 17 Jul 2017 11:37:50 +0100</pubDate>
+      
+      <guid>http://kyberconsultancy.co.uk/post/welcome/</guid>
+      <description>Kyber Consultancy offers services from very experienced IT professionals with real world practical experience of running IT organisations in business critical situations, and bringing about major changes, be that cost improvements, technology changes, or strategic initiatives.</description>
+    </item>
+    
+  </channel>
+</rss>

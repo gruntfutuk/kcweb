@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/post/welcome/</loc>
+    <lastmod>2017-07-17T11:37:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/about/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/services/digitaltransformation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/services/itmanagement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/services/projectmanagement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/</loc>
+    <lastmod>2017-07-17T11:37:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/post/</loc>
+    <lastmod>2017-07-17T11:37:50+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/about/moreabout/</loc>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/services/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://kyberconsultancy.co.uk/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

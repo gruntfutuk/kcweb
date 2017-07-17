@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Kyber Consultancy Ltd</title>
+    <link>http://kyberconsultancy.co.uk/services/</link>
+    <description>Recent content in Services on Kyber Consultancy Ltd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="http://kyberconsultancy.co.uk/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Digital Transformation and IT Strategy</title>
+      <link>http://kyberconsultancy.co.uk/services/digitaltransformation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kyberconsultancy.co.uk/services/digitaltransformation/</guid>
+      <description>We provide help and advice on developing IT Strategies aligned with Business Strategy, addressing Digital Transformation needs to increase flexibility, reduce cost, and pay down legacy debt..
+We take a pragmatic approach based on experience of what can be achieved by a business.
+In many cases, those in IT understand the business very well, especially the constraints on it, but they cannot focus on bringing extra value to the business because they are too busy looking after legacy systems that are in need of replacement.</description>
+    </item>
+    
+    <item>
+      <title>IT Management</title>
+      <link>http://kyberconsultancy.co.uk/services/itmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kyberconsultancy.co.uk/services/itmanagement/</guid>
+      <description>We provide assistance and guidance to execute an IT Strategy, continue Business As Usual operations, bring about change in efficiency, cost, effectiveness, flexibility, responsiveness.
+We can help IT Managers, in areas such as:
+ Cost reduction Operational optimisation Data centre rationalisation / centralisation / consolidation Adoption of virtualisation and cloud computing Business case development IT organisation design Strategy alignment GDPR system footprint review  </description>
+    </item>
+    
+    <item>
+      <title>IT Project Management</title>
+      <link>http://kyberconsultancy.co.uk/services/projectmanagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://kyberconsultancy.co.uk/services/projectmanagement/</guid>
+      <description>We provide support to manage major business change programmes involving technology and business change with multiple stakeholders and a day-to-day business to keep running.
+Managing major programmes of business change Change programmes are very demanding on all businesses and difficult to do without compromising existing day-to-day business activities.
+Our IT Project Management service supplements the experience and knowledge of businesses with consulting and project management experience gained from a wide variety of industries and many different IT projects.</description>
+    </item>
+    
+  </channel>
+</rss>
